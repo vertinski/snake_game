@@ -5,7 +5,7 @@
 This is a very first snake game produced using the OpenAI Codex engine. 
 The code was produced by prompting the Codex engine with a custom and very compact text promt. 
 Codex is an AI system that translates natural language to code. In this case it's Python code.
-The prompt is a carefully crafted text snippet, that is fed to the Codex engine for completion. 
+The prompt is a carefully crafted text snippet, which is fed to the Codex engine for completion. 
 Completed text is a program code or script, etc.
 
 **The prompt**
