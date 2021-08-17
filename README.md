@@ -8,7 +8,7 @@ The prompt is a text snippet that is fed to the Codex engine for completion. Com
 >Top P: 1\
 >Frequency penalty: 0\
 >Presence penalty: 0\
->Best of: 1\
+>Best of: 1
 
 (Response length can be adjusted as needed)
 
