@@ -4,8 +4,8 @@ Codex is an AI system that translates natural language to code. In this case it'
 The prompt is a text snippet that is fed to the Codex engine for completion. Completed text is a program code or script, etc.
 
 **The prompt**
->#Define a python function which is a classic snake game.
->#Display playing field using pygame library.
+>#Define a python function which is a classic snake game.\
+>#Display playing field using pygame library.\
 >
 >import pygame
 
