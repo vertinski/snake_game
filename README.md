@@ -5,10 +5,11 @@ The prompt is a text snippet that is fed to the Codex engine for completion. Com
 
 **The prompt**
 >#Define a python function which is a classic snake game.\
->#Display playing field using pygame library.\
+>#Display playing field using pygame library.
 >
 >import pygame
-
+  
+  
 **Prompt parameters**
 >Temperature: 0.7\
 >Top P: 1\
