@@ -1,6 +1,6 @@
 # Snake Game  
   
-![picture alt](./images/gpt_snake1.png "Title is optional") ![picture alt](./images/gpt_snake2.png "Title is optional")\
+<img src="./images/gpt_snake1.png" width=50%> <img src="./images/gpt_snake2.png" width=50%>
   
 snake_game.py is a Snake Game code produced by prompting the OpenAI Codex engine. 
 Codex is an AI system that translates natural language to code. In this case it's Python code.
